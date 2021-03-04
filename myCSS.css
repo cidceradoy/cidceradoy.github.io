@@ -1,0 +1,30 @@
+body {
+	background-image: url("background.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+div {
+	border: 5px outset purple;
+	background-color: lightblue;
+	height: 500px;
+	width: 75%;
+	margin-left: 12.5%;
+	margin-top: 5%;
+}
+
+p {
+	text-indent: 2em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 12%;
+}
+
+img {
+	border-radius: 50%;
+	width: 250px;
+	height: 200px;
+	margin-right: 150%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
