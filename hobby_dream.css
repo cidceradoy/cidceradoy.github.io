@@ -1,0 +1,12 @@
+body {
+	background-image: url("astronaut.jpg");
+	background-size: cover;
+}
+
+p {
+	text-indent: 2em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 15%;
+	color: orange;
+}
